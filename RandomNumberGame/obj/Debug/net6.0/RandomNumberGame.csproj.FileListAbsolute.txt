@@ -1,0 +1,15 @@
+C:\Users\scott\OneDrive\Desktop\RandomNumberGame\RandomNumberGame\bin\Debug\net6.0\RandomNumberGame.exe
+C:\Users\scott\OneDrive\Desktop\RandomNumberGame\RandomNumberGame\bin\Debug\net6.0\RandomNumberGame.deps.json
+C:\Users\scott\OneDrive\Desktop\RandomNumberGame\RandomNumberGame\bin\Debug\net6.0\RandomNumberGame.runtimeconfig.json
+C:\Users\scott\OneDrive\Desktop\RandomNumberGame\RandomNumberGame\bin\Debug\net6.0\RandomNumberGame.dll
+C:\Users\scott\OneDrive\Desktop\RandomNumberGame\RandomNumberGame\bin\Debug\net6.0\RandomNumberGame.pdb
+C:\Users\scott\OneDrive\Desktop\RandomNumberGame\RandomNumberGame\obj\Debug\net6.0\RandomNumberGame.csproj.AssemblyReference.cache
+C:\Users\scott\OneDrive\Desktop\RandomNumberGame\RandomNumberGame\obj\Debug\net6.0\RandomNumberGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scott\OneDrive\Desktop\RandomNumberGame\RandomNumberGame\obj\Debug\net6.0\RandomNumberGame.AssemblyInfoInputs.cache
+C:\Users\scott\OneDrive\Desktop\RandomNumberGame\RandomNumberGame\obj\Debug\net6.0\RandomNumberGame.AssemblyInfo.cs
+C:\Users\scott\OneDrive\Desktop\RandomNumberGame\RandomNumberGame\obj\Debug\net6.0\RandomNumberGame.csproj.CoreCompileInputs.cache
+C:\Users\scott\OneDrive\Desktop\RandomNumberGame\RandomNumberGame\obj\Debug\net6.0\RandomNumberGame.dll
+C:\Users\scott\OneDrive\Desktop\RandomNumberGame\RandomNumberGame\obj\Debug\net6.0\refint\RandomNumberGame.dll
+C:\Users\scott\OneDrive\Desktop\RandomNumberGame\RandomNumberGame\obj\Debug\net6.0\RandomNumberGame.pdb
+C:\Users\scott\OneDrive\Desktop\RandomNumberGame\RandomNumberGame\obj\Debug\net6.0\RandomNumberGame.genruntimeconfig.cache
+C:\Users\scott\OneDrive\Desktop\RandomNumberGame\RandomNumberGame\obj\Debug\net6.0\ref\RandomNumberGame.dll
